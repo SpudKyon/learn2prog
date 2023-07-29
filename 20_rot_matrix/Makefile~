@@ -1,0 +1,4 @@
+all: rotate
+
+rotate: rotate.c
+	gcc -o read-Matrix.o -c rotate.c rorate

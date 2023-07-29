@@ -1,0 +1,8 @@
+Grading at Tue 25 Jul 2023 07:38:21 AM UTC
+Attempting to compile test.c
+gcc -o test test.c
+compiled
+Your file matched the expected output
+Your output matched what we expected
+
+Overall Grade: A
