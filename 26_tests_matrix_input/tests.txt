@@ -1,8 +1,9 @@
 
 noexistfile
 noexistfile wrongargu
-test/sample.txt
-test/0
-test/1
-test/2
-test/3
+nothing w r
+tests/sample.txt
+tests/0
+tests/1
+tests/2
+tests/3
