@@ -1,0 +1,10 @@
+Grading at Wed 02 Aug 2023 02:36:00 PM UTC
+Attempting to compile:
+outname.c: In function ‘computeOutputFileName’:
+outname.c:8:1: error: control reaches end of non-void function [-Werror=return-type]
+    8 | }
+      | ^
+cc1: all warnings being treated as errors
+The code did not compile!
+
+Overall Grade: F
